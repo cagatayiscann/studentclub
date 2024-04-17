@@ -1,0 +1,25 @@
+Setup Instructions
+1 - cd studentsclub
+2 - Create virtual environment: virtualenv myenv
+3 - myenv\scripts\activate
+4 - pip install -r requirements.txt
+5 - python manage.py runserver
+
+To Run App
+1 - myenv\scripts\activate
+2 - cd backend
+3 - python manage.py runserver
+4 - Open New terminal: cd frontend
+5 - npm start
+
+Install react modules
+1 - cd frontend
+2 - npm install
+3 - npm install react-bootstrap npm install react-router-dom react-router-bootsrap
+4 - npm install axios
+5 - npm install redux react-redux redux-thunk redux-devtools-extensions
+
+Install django modules
+1 - myenv\scripts\activate
+2 - cd backend
+3 - pip install django-cors-headers
