@@ -15,9 +15,6 @@ To Run App
 Install react modules
 1 - cd frontend
 2 - npm install
-3 - npm install react-bootstrap npm install react-router-dom react-router-bootsrap
-4 - npm install axios
-5 - npm install redux react-redux redux-thunk redux-devtools-extensions
 
 Install django modules
 1 - myenv\scripts\activate
